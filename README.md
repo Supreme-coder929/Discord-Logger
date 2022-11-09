@@ -4,7 +4,7 @@
 
 # Discord IP Info Logger 
 
-This is a web based IP info logger which integrates with discord webhooks. 
+This is a web based IP info logger which integrates with discord webhooks. You can run it locally or publicly. It will work both ways.
 
 
 ## Features
